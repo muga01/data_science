@@ -12,13 +12,13 @@ Problems and Questions:
 
 2) Create new csv dataset with the following structure:
 
-a) Column 1: state
+    a) Column 1: state
 
-b) Column 2: population
+    b) Column 2: population
 
-c) Column 3: murders_total
+    c) Column 3: murders_total
 
-d) Column 4: murder_rate
+    d) Column 4: murder_rate
 
 3) Describe the distribution of murder rates across states. How similar are states? How much do murder rates vary by geographical regions? Provide conclusions and recommendations for your friends.
 
