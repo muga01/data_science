@@ -31,5 +31,8 @@ Effective communication of data is a strong antidote to misinformation and fear 
 
 The data used for these plots were collected, organized and distributed by the Tycho Project. They include weekly reported counts data for seven diseases from 1928 to 2011, from all fifty US states.
 
+## Lab03 - Data wrangling
+The United States Social Security Administration releases data dating back to 1880 on babies’ first names, genders, and their popularity (https://www.ssa.gov/oact/babynames/limits.html). Similarly, the Centers for Disease Control releases data on life expectancy in the United States (http://www.cdc.gov/nchs/products/life_tables.htm). The data is used to depict trends on baby names, number of births and among other tasks. Charts are included as well
+
 ### Disclaimer
 If you want to view the .ipynb files, please clone the entire project or download and open the .ipynb files locally. All the questions asked have been answered and well commented in .ipynb files.
