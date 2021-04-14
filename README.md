@@ -1,5 +1,5 @@
 # data_science
-This repo contains tasks related to data science, conducted when I was pursuing the introduction to data science course at Lodz University of technology in the year 10.2020. It consists of four laboratory tasks as follows:- (The projects are implemented using python language)
+This repo contains tasks related to data science, conducted when I was pursuing the introduction to data science course at Lodz University of Technology for the year 2020. It consists of four selected tasks as follows:- (The projects are implemented using python language)
 
 ## Lab01 - Introduction and EDA¶
 Several of your friends live in Poland and are offered jobs at a US company with many locations all across the country. The job offers are great but news with headlines such as “America is one of 6 countries that make up more than half of guns deaths worldwide” have them worried. Charts like this make them worry even more:
