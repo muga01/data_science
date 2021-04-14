@@ -1,5 +1,5 @@
 # data_science
-This repo contains tasks related to data science, conducted when I was pursuing the introduction to data science course at Lodz University of technology in the year 10.2020. It consists of three laboratory tasks as follows:- (The projects are implemented using python language)
+This repo contains tasks related to data science, conducted when I was pursuing the introduction to data science course at Lodz University of technology in the year 10.2020. It consists of four laboratory tasks as follows:- (The projects are implemented using python language)
 
 ## Lab01 - Introduction and EDA¶
 Several of your friends live in Poland and are offered jobs at a US company with many locations all across the country. The job offers are great but news with headlines such as “America is one of 6 countries that make up more than half of guns deaths worldwide” have them worried. Charts like this make them worry even more:
@@ -33,6 +33,9 @@ The data used for these plots were collected, organized and distributed by the T
 
 ## Lab03 - Data wrangling
 The United States Social Security Administration releases data dating back to 1880 on babies’ first names, genders, and their popularity (https://www.ssa.gov/oact/babynames/limits.html). Similarly, the Centers for Disease Control releases data on life expectancy in the United States (http://www.cdc.gov/nchs/products/life_tables.htm). The data is used to depict trends on baby names, number of births and among other tasks. Charts are included as well
+
+## Mammogram - predict whether a mammogram mass is a benign or malignant
+In this project we aim at finding the model which will accurately predict whether a mammogram mass is a benign or malignant. The aim is to assist doctors to correctly interpret the mammogram results inorder to avoid wrong breast surgeries. In the whole process we will use python libraries such as scikit to achieve the goal. We start with dataset download, pre-processing them, Training the data through different machine learning and Neural networks models and hence conclusion. Comments are provided in each section of the code block for the clear understanding of the codes. We use a public dataset available here(https://archive.ics.uci.edu/ml/datasets/Mammographic+Mass)
 
 ### Disclaimer
 If you want to view the .ipynb files, please clone the entire project or download and open the .ipynb files locally. All the questions asked have been answered and well commented in .ipynb files.
