@@ -1,7 +1,7 @@
 # data_science
 This repo contains tasks related to data science, conducted when I was pursuing the introduction to data science course at Lodz University of technology in the year 10.2020. It consists of three laboratory tasks as follows:- (The projects are implemented using python language)
 
-## TASK01 - Introduction and EDA¶
+## Lab01 - Introduction and EDA¶
 Several of your friends live in Poland and are offered jobs at a US company with many locations all across the country. The job offers are great but news with headlines such as “America is one of 6 countries that make up more than half of guns deaths worldwide” have them worried. Charts like this make them worry even more:
 
 You want to convince your friends that the US is a large and diverse country with 50 very different states as well as the District of Columbia (DC). Use data from the US gun violence dataset.
@@ -21,6 +21,15 @@ Problems and Questions:
     d) Column 4: murder_rate
 
 3) Describe the distribution of murder rates across states. How similar are states? How much do murder rates vary by geographical regions? Provide conclusions and recommendations for your friends.
+
+## Lab02 - Positive impacts of vaccines in public health
+Vaccines have helped save millions of lives. In the 19th century, before herd immunization was achieved through vaccination programs, deaths from infectious diseases, like smallpox and polio, were common. However, today, despite all the scientific evidence for their importance, vaccination programs have become somewhat controversial.
+
+The controversy started with a paper published in 1988 and lead by Andrew Wakefield (Wakefield, Andrew J., et al. "RETRACTED: Ileal-lymphoid-nodular hyperplasia, non-specific colitis, and pervasive developmental disorder in children." The Lancet (1998): 637-641) claiming there was a link between the administration of the measles, mumps and rubella (MMR) vaccine, and the appearance of autism and bowel disease. Despite much science contradicting this finding, sensationalists media reports and fear mongering from conspiracy theorists, led parts of the public to believe that vaccines were harmful. Some parents stopped vaccinating their children. This dangerous practice can be potentially disastrous given that the Center for Disease Control (CDC) estimates that vaccinations will prevent more than 21 million hospitalizations and 732,000 deaths among children born in the last 20 years (see: Benefits from Immunization during the Vaccines for Children Program Era — United States, 1994-2013, MMWR).
+
+Effective communication of data is a strong antidote to misinformation and fear mongering. **Prepare a report to have ready in case you need to help a family member, friend or acquaintance that is not aware of the positive impact vaccines have had for public health.**
+
+The data used for these plots were collected, organized and distributed by the Tycho Project. They include weekly reported counts data for seven diseases from 1928 to 2011, from all fifty US states.
 
 ### Disclaimer
 If you want to view the .ipynb files, please clone the entire project or download and open the .ipynb files locally. All the questions asked have been answered and well commented in .ipynb files.
